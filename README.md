@@ -1,2 +1,2 @@
 # AAA650.github.io
-First, I don't know how to write js, so there is no buttons(or others) on this site.
+I don't want to write js, so there are no buttons(or other elements) on this site.
